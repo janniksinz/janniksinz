@@ -1,6 +1,6 @@
 ### Hello World!
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=janniksinz.visitor-badge&left_color=green&right_color=red)
 
 - 👋 Hi, I’m @janniksinz
 - 🔭 I'm currently working as an [IMBIT](https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/wirtschaft/wirtschaftsinformatik-imbit/) student at [IBM](https://www.ibm.com/de-de/employment/schueler/)
