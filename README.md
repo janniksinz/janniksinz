@@ -8,8 +8,8 @@
 - 💞️ I’m looking to collaborate on Customer Cloud Projects and ML concepts
 - 📫 How to reach me: jannik.sinz@ibm.com
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=janniksinz.visitor-badge1&left_color=green&right_color=red)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjanniksinz%2Fjanniksinz&countColor=%23263759)
 <!---
 janniksinz/janniksinz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
