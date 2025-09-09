@@ -2,11 +2,12 @@
 
 
 - 👋 Hi, I’m @janniksinz
-- 🔭 I'm currently working as an [IMBIT](https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/wirtschaft/wirtschaftsinformatik-imbit/) student at [IBM](https://www.ibm.com/de-de/employment/schueler/)
+- 🔭 I was an [IMBIT](https://www.dhbw-stuttgart.de/studium/bachelor-studienangebot/wirtschaft/wirtschaftsinformatik-imbit/) student at [IBM](https://www.ibm.com/de-de/employment/schueler/)
+- and am now working as a Software Architect at Mercedes (Connectivity Modules)
 - 👀 I’m interested in Software Architecture, Cloud Architecture, ML, ...
 - 🌱 I’m currently learning Next.js, Ansible, K8s/OpenShift, tesorflow (Machine Learing & Cloud)
-- 💞️ I’m looking to collaborate on Customer Cloud Projects and ML concepts
-- 📫 How to reach me: jannik.sinz@ibm.com
+- 💞️ I like to collaborate on Customer Cloud and ML projects
+- 📫 How to reach me: jannik.sinz.js@gmail.com
 
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjanniksinz%2Fjanniksinz&countColor=%23263759)
